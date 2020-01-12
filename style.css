@@ -19,7 +19,8 @@ body {
 
 .wrapper {
 	width: 1170px;
-	margin: 8% auto;
+	margin-left: auto ;
+  	margin-right: auto ;
 }
 
 .single-box h2 {
