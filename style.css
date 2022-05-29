@@ -27,7 +27,7 @@ animation: glitch 3s 3s infinite;
 content: attr(data-text);
 position: absolute;
 left: -2px;
-text-shadow: -5px 0 blueviolet;
+text-shadow: -5px 0 black; // ------
 background: black;
 overflow: hidden;
 top: 0;
